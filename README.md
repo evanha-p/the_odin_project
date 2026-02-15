@@ -1,2 +1,2 @@
-# the_odin_project
+# the-odin-project
 Code for the Odin Project curriculum
